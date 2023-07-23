@@ -1,0 +1,4 @@
+evdev:name:Kensington Expert Mouse:*
+ KEYBOARD_KEY_90002=btn_left
+ KEYBOARD_KEY_90001=btn_right
+#evdev:input:b0003v047dp1020*
